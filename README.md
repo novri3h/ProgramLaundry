@@ -5,7 +5,7 @@
 <div align="justify">Aplikasi laundry adalah perangkat lunak yang dirancang khusus untuk membantu pengelolaan usaha jasa laundry, baik itu laundry kiloan maupun laundry satuan. Fungsi aplikasi laundry ini sangat berguna untuk membantu efisiensi operasional, meningkatkan layanan pelanggan, dan mengoptimalkan manajemen bisnis laundry.</div>
 <br>
 
-[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif_studio)
+[![Sponsor](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://trakteer.id/nadhif.studio)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/novri3h/VB-ProgramLaundry/graphs/commit-activity)
 
